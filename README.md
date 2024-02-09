@@ -1,6 +1,9 @@
 <h1 align="left"> Welcome to my GitHub!</h1>
-I am Data Science engineer.
+I am Data scientist.
 
+I am actively engaged in self-education, reading literature and various resources to expand my competencies.
+
+Data Science is an amazing world at the intersection of business, programming, and math.  
 
 
 ### My stack 
