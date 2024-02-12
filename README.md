@@ -1,9 +1,8 @@
 <h1 align="left"> Welcome to my GitHub!</h1>
 I am Data scientist.
+I completed the Data Scientist Professional Training Course (400 hours)
+Now i  actively engaged in self-education, reading literature and various resources to expand my competencies.
 
-I am actively engaged in self-education, reading literature and various resources to expand my competencies.
-
-Data Science is an amazing world at the intersection of business, programming, and math.  
 
 
 ### My stack 
