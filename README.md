@@ -1,6 +1,6 @@
 <h1 align="left"> Welcome to my GitHub!</h1>
-I am Data scientist. </b>
-I completed the Data Scientist Professional Training Course (400 hours) </br>
+I am Data scientist. </br>
+I completed the Data Scientist Professional Training Course (400 hours) of Yandex Practicum </br>
 Now i  actively engaged in self-education, reading literature and various resources to expand my competencies.  </br> </br>
 <img src="https://github.com/GrigoriyKhanov/GrigoriyKhanov/blob/198bb5e69f33f31338f63e9eeea4a03f1765306f/Grigoriy%20Khanov.jpg"title ="Certificate"  width="600"    />&nbsp;
 <a href="https://github.com/GrigoriyKhanov/GrigoriyKhanov/blob/5541012ad5482fc5cdaa018b560027ac10345991/Grigoriy%20Khanov_20242DS00065.pdf" download>My Certificate</a>
