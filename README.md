@@ -2,7 +2,7 @@
 I am Data scientist.
 I completed the Data Scientist Professional Training Course (400 hours)
 Now i  actively engaged in self-education, reading literature and various resources to expand my competencies.
-
+<img src="https://github.com/GrigoriyKhanov/GrigoriyKhanov/blob/198bb5e69f33f31338f63e9eeea4a03f1765306f/Grigoriy%20Khanov.jpg"title ="Certificate"  width="600"    />&nbsp;
 
 
 ### My stack 
