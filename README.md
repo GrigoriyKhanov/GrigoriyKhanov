@@ -4,9 +4,7 @@ I completed the Data Scientist Professional Training Course (400 hours)
 Now i  actively engaged in self-education, reading literature and various resources to expand my competencies.
 <img src="https://github.com/GrigoriyKhanov/GrigoriyKhanov/blob/198bb5e69f33f31338f63e9eeea4a03f1765306f/Grigoriy%20Khanov.jpg"title ="Certificate"  width="600"    />&nbsp;
 
-<a https://github.com/GrigoriyKhanov/GrigoriyKhanov/blob/5541012ad5482fc5cdaa018b560027ac10345991/Grigoriy%20Khanov_20242DS00065.pdf</a>
-
-<a href="https://github.com/GrigoriyKhanov/GrigoriyKhanov/blob/5541012ad5482fc5cdaa018b560027ac10345991/Grigoriy%20Khanov_20242DS00065.pdf" download>Download Certificate</a>
+<a href="https://github.com/GrigoriyKhanov/GrigoriyKhanov/blob/5541012ad5482fc5cdaa018b560027ac10345991/Grigoriy%20Khanov_20242DS00065.pdf" download>My Certificate</a>
 ### My stack 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  title ="python"  width="40" heitght ="40"  />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"  title ="pandas"  width="40" heitght ="40"  />&nbsp;
